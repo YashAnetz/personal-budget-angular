@@ -10,4 +10,6 @@ Steps to run :
 6. ng server --open
 
 ![image](https://github.com/YashAnetz/personal-budget-angular/assets/55511290/e81ed599-f1be-40f7-ab31-e85fb0b63bd7)
+![image](https://github.com/YashAnetz/personal-budget-angular/assets/55511290/4ca0903c-fd4c-4ed6-8259-1224b781fb44)
+
 
