@@ -9,4 +9,5 @@ Steps to run :
 5. npm install
 6. ng server --open
 
-![Alt text](image-1.png)
+![image](https://github.com/YashAnetz/personal-budget-angular/assets/55511290/e81ed599-f1be-40f7-ab31-e85fb0b63bd7)
+
